@@ -9,6 +9,10 @@ npm i
 npm serve
 ```
 
+## With the server
+
+Repo: [https://github.com/cedric25/apollo-basic-server](https://github.com/cedric25/apollo-basic-server)
+
 ## More
 
 Project generated from vue-cli@3.0.0-beta.6
